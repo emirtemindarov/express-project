@@ -1,0 +1,1 @@
+console.log("Файл JavaScript связан с файлом file.html в этой же папке");
