@@ -1,0 +1,19 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emirtemindarov/express-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emirtemindarov/express-project/issues"
+  },
+  "homepage": "https://github.com/emirtemindarov/express-project#readme"
+}
