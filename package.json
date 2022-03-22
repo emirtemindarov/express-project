@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/emirtemindarov/express-project/issues"
   },
-  "homepage": "https://github.com/emirtemindarov/express-project#readme"
+  "homepage": "https://github.com/emirtemindarov/express-project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  }
 }
